@@ -6,7 +6,7 @@
 # terraform apply
 # terraform destroy
 ############################terraform settings ######################
-#New line#
+#New line###
 terraform {
   required_providers {
     azurerm = {
